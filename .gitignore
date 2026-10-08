@@ -1,0 +1,40 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas de build
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+
+# Pastas de cache
+/[Ll]ibrary/
+/[Tt]emp/
+/Obj/
+
+# Configurações locais
+/[Uu]ser[Ss]ettings/
+
+# Arquivos de pacotes
+/[Pp]ackages/com.unity.*.tgz
+
+# Arquivos do Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Arquivos de cache do Rider
+.idea
+*.sln.iml
+
+# Arquivos de cache do JetBrains / VSCode
+.vscode/
