@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\2jd\\Documents\\TurmaA\\TombLooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\2jd\\documents\\turmaa\\tomblooter\\assets\\scripts\\movimentopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\2jd\\documents\\turmaa\\tomblooter\\assets\\scripts\\movimentocenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentocenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2jd\\Documents\\TurmaA\\TombLooter\\Assets\\Scripts\\movimentoCenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\movimentoCenario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\2jd\\documents\\turmaa\\tomblooter\\assets\\scripts\\movimentopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimentopersonagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "movimentoPersonagem.cs",
               "DocumentMoniker": "C:\\Users\\2jd\\Documents\\TurmaA\\TombLooter\\Assets\\Scripts\\movimentoPersonagem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\movimentoPersonagem.cs",
               "ToolTip": "C:\\Users\\2jd\\Documents\\TurmaA\\TombLooter\\Assets\\Scripts\\movimentoPersonagem.cs",
               "RelativeToolTip": "Assets\\Scripts\\movimentoPersonagem.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T12:21:11.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "movimentoCenario.cs",
               "DocumentMoniker": "C:\\Users\\2jd\\Documents\\TurmaA\\TombLooter\\Assets\\Scripts\\movimentoCenario.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\movimentoCenario.cs",
               "ToolTip": "C:\\Users\\2jd\\Documents\\TurmaA\\TombLooter\\Assets\\Scripts\\movimentoCenario.cs",
               "RelativeToolTip": "Assets\\Scripts\\movimentoCenario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T12:04:24.042Z",
               "EditorCaption": ""
